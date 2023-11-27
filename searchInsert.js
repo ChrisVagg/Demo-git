@@ -1,3 +1,5 @@
+const a="New code here for example to make a commit"
+
 const searchInsert=(nums,target,left,right,pos)=>{
   
     if(left>right)
