@@ -1,3 +1,5 @@
+const a="New code here -> Working with git"
+
 const searchInsert=(nums,target,left,right,pos)=>{
   
     if(left>right)
